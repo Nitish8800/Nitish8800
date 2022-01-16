@@ -16,7 +16,7 @@
 
 <br>
 
-<table align="center" style="background-color:#FFFFE0;>
+<table align="center">
 
 <tbody>
 
@@ -86,23 +86,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/sachanarpit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/sachanarpit1"><img src="https://img.shields.io/badge/twitter-1c9ceb?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://codepen.io/sachanarpit"><img src="https://img.shields.io/badge/codepen-1d1e22?style=for-the-badge&logo=codepen&logoColor=white"></a>
-  <a href="https://instagram.com/arpitsachanofficial"><img src="https://img.shields.io/badge/instagram-d11b59?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="linkedin.com/in/nitish-kumar-50a564205"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/Nitishk60487582"><img src="https://img.shields.io/badge/twitter-1c9ceb?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.instagram.com/_niku_7827/"><img src="https://img.shields.io/badge/instagram-d11b59?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 <hr />
 
 <h3> 📊 My Github Stats</h3>
-<a href="https://github.com/sachanarpit/github-readme-activity-graph"><img alt="Arpit-Sachan-Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sachanarpit&bg_color=0D1117&color=e8f4fd&line=f98c03&point=FFFFFF&hide_border=true" /></a>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachanarpit&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="sachanarpit" /></p>
+<a href="https://github.com/Nitish8800/github-readme-activity-graph"><img alt="Nitish-Kumar-Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nitish8800&bg_color=0D1117&color=e8f4fd&line=f98c03&point=FFFFFF&hide_border=true" /></a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitish8800&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Nitish Kumar" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sachanarpit&show_icons=true&locale=en&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="sachanarpit" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitish8800&show_icons=true&locale=en&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Nitish Kumar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachanarpit&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="sachanarpit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitish8800&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Nitish Kumar" /></p>
 
 <hr />
 <h3> Views and Followers </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachanarpit&label=Profile%20views&color=0e75b6&style=flat" alt="sachanarpit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nitish8800&label=Profile%20views&color=0e75b6&style=flat" alt="Nitish Kumar" /> </p>
 
-<p align=""> <a href="https://twitter.com/sachanarpit1" target="blank"><img src="https://img.shields.io/twitter/follow/sachanarpit1?logo=twitter&style=for-the-badge" alt="sachanarpit1" /></a> </p>
+<p align=""> <a href="https://twitter.com/@Nitishk60487582" target="blank"><img src="https://img.shields.io/twitter/follow/@Nitishk60487582?logo=twitter&style=for-the-badge" alt="@Nitishk60487582" /></a> </p>
