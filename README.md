@@ -86,7 +86,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="linkedin.com/in/nitish-kumar-50a564205"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nitish-kumar-50a564205/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/Nitishk60487582"><img src="https://img.shields.io/badge/twitter-1c9ceb?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://www.instagram.com/_niku_7827/"><img src="https://img.shields.io/badge/instagram-d11b59?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
@@ -104,4 +104,4 @@
 <h3> Views and Followers </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nitish8800&label=Profile%20views&color=0e75b6&style=flat" alt="Nitish Kumar" /> </p>
 
-<p align=""> <a href="https://twitter.com/@Nitishk60487582" target="blank"><img src="https://img.shields.io/twitter/follow/@Nitishk60487582?logo=twitter&style=for-the-badge" alt="Nitishk60487582" /></a> </p>
+<p align=""> <a href="https://twitter.com/Nitishk60487582" target="blank"><img src="https://img.shields.io/twitter/follow/@Nitishk60487582?logo=twitter&style=for-the-badge" alt="@Nitishk60487582" /></a> </p>
