@@ -1,4 +1,4 @@
-[![Arpit Sachan , I'm a Full Stack Web Developer.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Arpit%20Sachan%20)](https://arpitsachan.com)
+[![Nitish Kumar , I'm a Full Stack Web Developer.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Arpit%20Sachan%20)](https://arpitsachan.com)
 
 - 🌱 I’m currently learning **MERN Stack and DSA At Masai School**
 
