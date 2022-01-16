@@ -22,7 +22,7 @@
 
 <tr valign="top">
 
-<td width="25%" align="center">
+<td width="33%" align="center">
 
 <span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
 
@@ -30,7 +30,7 @@
 
 </td>
 
-<td width="25%" align="center">
+<td width="33%" align="center">
 
 <span>𝗖𝗦𝗦𝟯</span><br><br>
 
@@ -38,7 +38,7 @@
 
 </td>
 
-<td width="25%" align="center">
+<td width="33%" align="center">
 
 <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br>
 
@@ -51,7 +51,7 @@
 
 <tr valign="top">
 
-<td width="25%" align="center">
+<td width="33%" align="center">
 
 <span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br>
 
@@ -60,7 +60,7 @@
 </td>
 
 
-<td width="25%" align="center">
+<td width="33%" align="center">
 
 <span>𝗚𝗶𝘁</span><br><br>
 
@@ -68,7 +68,7 @@
 
 </td>
 
-<td width="25%" align="center">
+<td width="33%" align="center">
 
 <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br>
 
