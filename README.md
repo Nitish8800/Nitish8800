@@ -1,14 +1,14 @@
-[![Nitish Kumar , I'm a Full Stack Web Developer.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Nitish%20Kumar%20)](https://arpitsachan.com)
+[![Nitish Kumar , I'm a Frontend Web Developer.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Nitish%20Kumar%20)](https://www.linkedin.com/in/nitish-kumar-50a564205/)
 
 - 🌱 I’m currently learning **MERN Stack and DSA At Masai School**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sachanarpit](https://github.com/sachanarpit)
+- 👨‍💻 All of my projects are available at [https://github.com/Nitish8800](https://github.com/Nitish8800)
 
-- 📝 I write articles on [https://hashnode.com/@arpitsachan](https://hashnode.com/@arpitsachan)
+- 📝 I write articles on [https://medium.com/@nitishfea120784](https://medium.com/@nitishfea120784)
 
-- 💬 Ask me about **ReactJS , Javascript , Data structure , Algorithm , Node Js , Express , MangoDB and Wordpress.**
+- 💬 Ask me about ** Javascript , Data structure , Algorithm , HTML , CSS , Bootstrap , CLI-Bash**
 
-- 📫 How to reach me **contact@arpitsachan.com**
+- 📫 How to reach me LinkedIn **https://www.linkedin.com/in/nitish-kumar-50a564205/**
 
 <hr />
 
