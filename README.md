@@ -6,7 +6,7 @@
 
 - 📝 I write articles on [https://medium.com/@nitishfea120784](https://medium.com/@nitishfea120784)
 
-- 💬 Ask me about ** Javascript , Data structure , Algorithm , HTML , CSS , Bootstrap , CLI-Bash**
+- 💬 Ask me about **Javascript , Data structure , Algorithm , HTML , CSS , Bootstrap , CLI-Bash.**
 
 - 📫 How to reach me LinkedIn **https://www.linkedin.com/in/nitish-kumar-50a564205/**
 
@@ -45,52 +45,9 @@
 <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 
 </td>
-
-<td width="25%" align="center">
-
-<span>𝗥𝗲𝗮𝗰𝘁</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-
-</td>
-
 </tr>
 
-<tr valign="top">
 
-<td width="25%" align="center">
-
-<span>NodeJS</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>Express</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>Mongodb</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-
-</td>
-
-</tr>
 
 <tr valign="top">
 
@@ -102,13 +59,6 @@
 
 </td>
 
-<td width="25%" align="center">
-
-<span>𝗥𝗲𝗱𝘂𝘅</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
-
-</td>
 
 <td width="25%" align="center">
 
