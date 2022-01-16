@@ -26,7 +26,7 @@
 
 <span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+<img height="100px" src="https://cdn.svgporn.com/logos/html-5.svg">
 
 </td>
 
@@ -34,7 +34,7 @@
 
 <span>𝗖𝗦𝗦𝟯</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+<img height="100px" src="https://cdn.svgporn.com/logos/css-3.svg">
 
 </td>
 
@@ -42,7 +42,7 @@
 
 <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+<img height="100px" src="https://cdn.svgporn.com/logos/javascript.svg">
 
 </td>
 </tr>
@@ -55,7 +55,7 @@
 
 <span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+<img height="100px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
 
 </td>
 
@@ -64,7 +64,7 @@
 
 <span>𝗚𝗶𝘁</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+<img height="100px" src="https://cdn.svgporn.com/logos/git-icon.svg">
 
 </td>
 
@@ -72,7 +72,7 @@
 
 <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+<img height="100px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
 
 </td>
 
