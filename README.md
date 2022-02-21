@@ -13,9 +13,7 @@
 
 - 📫 How to reach me LinkedIn **https://www.linkedin.com/in/nitish-kumar-50a564205/**
 
-
 <hr />
-
 
 <h2 align="center" border="0">My Tech Stack</h2>
 
@@ -51,8 +49,6 @@
 
 </td>
 </tr>
-
-
 
 <tr valign="top">
 
