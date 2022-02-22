@@ -28,7 +28,6 @@
 <td width="33%" align="center">
 
 <span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
-
 <img height="200px" src="https://cdn.svgporn.com/logos/html-5.svg">
 
 </td>
