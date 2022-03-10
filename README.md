@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning **MERN Stack and DSA At Masai School**
 
-
 - 👨‍💻 All of my projects are available at [https://github.com/Nitish8800](https://github.com/Nitish8800)
 
 - 📝 I write articles on [https://medium.com/@nitishfea120784](https://medium.com/@nitishfea120784)
