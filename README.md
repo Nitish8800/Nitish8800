@@ -43,6 +43,7 @@
 
 </td>
 
+  
 <td width="33%" align="center">
 
 <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br>
