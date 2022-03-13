@@ -6,7 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nitish8800](https://github.com/Nitish8800)
 
-
 - 📝 I write articles on [https://medium.com/@nitishfea120784](https://medium.com/@nitishfea120784)
 
 - 💬 Ask me about **Javascript , Data structure , Algorithm , HTML , CSS , Bootstrap , CLI-Bash.**
