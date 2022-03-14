@@ -68,6 +68,7 @@
 
 <img height="200px" src="https://cdn.svgporn.com/logos/git-icon.svg">
 
+  
 </td>
 
 <td width="33%" align="center">
