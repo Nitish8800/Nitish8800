@@ -142,7 +142,7 @@
 </p>
 
 <hr />
-<h3>  My Github Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="50"/></h3>
+<h3>  My Github Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></h3>
 <a href="https://github.com/Nitish8800/github-readme-activity-graph"><img alt="Nitish-Kumar-Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nitish8800&bg_color=0D1117&color=e8f4fd&line=f98c03&point=FFFFFF&hide_border=true" /></a>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitish8800&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Nitish Kumar" /></p>
 
