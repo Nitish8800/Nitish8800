@@ -3,7 +3,6 @@
 <h1 align="center"> <img src="https://achintya-portfolio.vercel.app/plane.gif" width="150" ></h1>
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nitish Kumar</h1>
 
-
 - 🌱 I’m currently learning **MERN Stack and DSA At Masai School**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nitish8800](https://github.com/Nitish8800)
