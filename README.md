@@ -9,7 +9,7 @@
 
 - 📝 I write articles on [https://medium.com/@nitishfea120784](https://medium.com/@nitishfea120784)
 
-- 💬 Ask me about **Javascript , Data structure , Algorithm , HTML , CSS , Bootstrap , CLI-Bash.**
+- 💬 Ask me about **HTML , CSS , Javascript , React , Redux , Mongodb , Express , Nodejs , Data structure , Algorithm , Bootstrap , CLI-Bash.**
 
 - 📫 How to reach me LinkedIn **https://www.linkedin.com/in/nitish-kumar-50a564205/**
 
@@ -129,6 +129,7 @@
 
 </tbody>
 
+
 </table>
 <hr>
 <h3>Connect with me :  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="75" /></h3>
@@ -158,4 +159,7 @@
 <p align=""> <a href="https://twitter.com/Nitishk60487582" target="blank"><img src="https://img.shields.io/twitter/follow/Nitishk60487582?logo=twitter&style=for-the-badge" alt="Nitishk60487582"/></a></p>
 
 https://skyline.github.com/Nitish8800/2021
+
+
+
 
