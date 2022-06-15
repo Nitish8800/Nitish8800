@@ -20,7 +20,6 @@
 <tbody>
 
 <tr valign="top">
-
 <td width="25%" align="center">
 
 <span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
