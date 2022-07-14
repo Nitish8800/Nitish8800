@@ -1,15 +1,18 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nitish8800&label=Profile%20views&color=0e75b6&style=flat" alt="Nitish Kumar" /> 
 
+
+
+
+<div align="left">   
+  
+  <h1 align="center">    
+    <img width="10%" align="center" alt="Github" src="https://camo.githubusercontent.com/5b64c27d7cd257cd01bf334c70fcc71d8c3e40298aa86c902c17a1c124651354/68747470733a2f2f616368696e7479612d706f7274666f6c696f2e76657263656c2e6170702f706c616e652e676966" />    
+    Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px"> I'm Nitish Kumar</h1>  
+  <img src="https://komarev.com/ghpvc/?username=Nitish8800&label=Profile%20views&color=0e75b6&style=flat" alt="Nitish Kumar" />
+  
 [![Github](https://img.shields.io/github/followers/Nitish8800?label=Follow&style=social)](https://github.com/Nitish8800)
   
-</p>
-
-
-
-<h1 align="center"> <img src="https://achintya-portfolio.vercel.app/plane.gif" width="150" ></h1>
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px"> I'm Nitish Kumar</h1>
-
+</div>
 
 <img width="50%" align="right" alt="Github" src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" />
 
