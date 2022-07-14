@@ -1,15 +1,14 @@
 <!----------------------------------- Heading Section ------------------------------------>
 
 <div align="left">   
-  <h1 align="center">    
-    <img width="13%" align="center" alt="Github" src="https://camo.githubusercontent.com/5b64c27d7cd257cd01bf334c70fcc71d8c3e40298aa86c902c17a1c124651354/68747470733a2f2f616368696e7479612d706f7274666f6c696f2e76657263656c2e6170702f706c616e652e676966" />    
-    Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px"> I'm Nitish Kumar</h1>  
+  <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px"> I'm Nitish Kumar</h1>  
   
   <!----------------------------------- About Section ------------------------------------>
   
   <h3 align="center">I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h3>
   
-## <p style="display:flex; align-items: center"> About Me  <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/></p> 
+## <p style="display:flex; align-items: center"> About Me <img width="11%" align="center" alt="Github" src="https://camo.githubusercontent.com/5b64c27d7cd257cd01bf334c70fcc71d8c3e40298aa86c902c17a1c124651354/68747470733a2f2f616368696e7479612d706f7274666f6c696f2e76657263656c2e6170702f706c616e652e676966" />
+</p> 
   
   <!----------------------------------- Profile View Section ------------------------------------>   
 
