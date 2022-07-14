@@ -134,17 +134,21 @@
   <a href="https://www.instagram.com/_niku_7827/"><img src="https://img.shields.io/badge/instagram-d11b59?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 <hr />
-<h3>  My Github Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></h3>
-<a href="https://github.com/Nitish8800/github-readme-activity-graph"><img alt="Nitish-Kumar-Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nitish8800&bg_color=0D1117&color=e8f4fd&line=f98c03&point=FFFFFF&hide_border=true" /></a>
+<h3>  My Github Statistics <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></h3>
+
+
+ <p align="center">
+
+<img src="https://activity-graph.herokuapp.com/graph?username=Nitish8800&theme=react-dark&bg_color=000&hide_border=true" width="100%"/>
+</p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitish8800&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Nitish Kumar" /></p>
 
 
+![Nitish8800's github stats](https://github-readme-stats.vercel.app/api?username=Nitish8800&theme=blue-green) <br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nitish8800&theme=onedark_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br>
 
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitish8800&show_icons=true&locale=en&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Nitish Kumar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitish8800&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Nitish Kumar" /></p>
 
 <hr />
 
@@ -156,7 +160,13 @@
 
 <p align=""> <a href="https://twitter.com/Nitishk60487582" target="blank"><img src="https://img.shields.io/twitter/follow/Nitishk60487582?logo=twitter&style=for-the-badge" alt="Nitishk60487582"/></a></p>
 
-https://skyline.github.com/Nitish8800/2021
+
+
+ <p align="center">
+
+![Snake animation](https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-snake.svg)
+ </p>
+
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
   </p>
