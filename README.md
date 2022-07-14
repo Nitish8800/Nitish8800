@@ -5,9 +5,9 @@
   
   <!----------------------------------- About Section ------------------------------------>
   
-  <h3 align="center">I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h3>
+  <h3 align="center"> <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code. </i> </h3>
   
-## <p style="display:flex; align-items: center"> About Me <img width="11%" align="center" alt="Github" src="https://camo.githubusercontent.com/5b64c27d7cd257cd01bf334c70fcc71d8c3e40298aa86c902c17a1c124651354/68747470733a2f2f616368696e7479612d706f7274666f6c696f2e76657263656c2e6170702f706c616e652e676966" />
+## <p style="display:flex; align-items: center"> <i> About Me </i> <img width="11%" align="center" alt="Github" src="https://camo.githubusercontent.com/5b64c27d7cd257cd01bf334c70fcc71d8c3e40298aa86c902c17a1c124651354/68747470733a2f2f616368696e7479612d706f7274666f6c696f2e76657263656c2e6170702f706c616e652e676966" />
 </p> 
   
   <!----------------------------------- Profile View Section ------------------------------------>   
@@ -41,7 +41,7 @@
 
 
 
-<h2 align="left" border="0">My Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></h2>
+<h2 align="left" border="0"><i> My Tech Stack </i><img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></h2>
 <br>
 
 <p>
@@ -64,7 +64,7 @@
 <br> 
         
 <hr>
-<h3>Connect with me :  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="75" /></h3>
+<h3><i> Connect with me : </i> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="75" /></h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/nitish-kumar-50a564205/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/Nitishk60487582"><img src="https://img.shields.io/badge/twitter-1c9ceb?style=for-the-badge&logo=twitter&logoColor=white"></a>
@@ -74,7 +74,7 @@
   
 </p>
 <hr />
-<h3>  My Github Statistics <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></h3>
+<h3> <i> My Github Statistics </i> <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></h3>
 
 [![Nitish's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nitish8800&theme=react-dark&bg_color=000&hide_border=true)](https://git.io/praveenscience)
 
