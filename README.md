@@ -37,7 +37,7 @@
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/nitish-kumar-50a564205/)
 
-- 👨‍💻 My Portfolio - **[Nitish Kumar](https://portfolio-nitish8800.vercel.app/)**
+- ⚡ My Portfolio - **[Nitish Kumar](https://portfolio-nitish8800.vercel.app/)**
 
 
 
