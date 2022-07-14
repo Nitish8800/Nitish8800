@@ -1,6 +1,17 @@
-[![Nitish Kumar ,I'm a passionate Full Stack Developer from India.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20passionate%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Nitish%20Kumar%20)](https://www.linkedin.com/in/nitish-kumar-50a564205/)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nitish8800&label=Profile%20views&color=0e75b6&style=flat" alt="Nitish Kumar" /> 
+
+[![Github](https://img.shields.io/github/followers/Nitish8800?label=Follow&style=social)](https://github.com/Nitish8800)
+  
+</p>
+
+
+
 <h1 align="center"> <img src="https://achintya-portfolio.vercel.app/plane.gif" width="150" ></h1>
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px"> I'm Nitish Kumar</h1>
+
+
+<img width="50%" align="right" alt="Github" src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" />
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nitish8800](https://github.com/Nitish8800)
 
@@ -160,12 +171,6 @@
 
 <p align=""> <a href="https://twitter.com/Nitishk60487582" target="blank"><img src="https://img.shields.io/twitter/follow/Nitishk60487582?logo=twitter&style=for-the-badge" alt="Nitishk60487582"/></a></p>
 
-
-
- <p align="center">
-
-![Snake animation](https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-snake.svg)
- </p>
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
