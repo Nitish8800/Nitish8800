@@ -10,7 +10,6 @@
 ## <h3 style="display:flex; align-items: center"> <i> About Me </i> <img width="11%" align="center" alt="Github" src="https://camo.githubusercontent.com/5b64c27d7cd257cd01bf334c70fcc71d8c3e40298aa86c902c17a1c124651354/68747470733a2f2f616368696e7479612d706f7274666f6c696f2e76657263656c2e6170702f706c616e652e676966" />
 </h3> 
   
-  
   <!----------------------------------- Profile View Section ------------------------------------>   
 
 
@@ -70,7 +69,6 @@
   <a href="https://twitter.com/Nitishk60487582"><img src="https://img.shields.io/badge/twitter-1c9ceb?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://www.instagram.com/_niku_7827/"><img src="https://img.shields.io/badge/instagram-d11b59?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://portfolio-nitish8800.vercel.app/"><img src="https://img.shields.io/badge/portfolio-00000?style=for-the-badge&logo=portfolio&logoColor=black"></a>
-
   
 </p>
 <hr />
@@ -87,7 +85,7 @@
 
 
 
-<hr />
+<hr>
 
 
 <p align="center">
