@@ -80,9 +80,6 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish8800&theme=tokyonight) | Well...That's all ♾️ <br> Have a li'l smile 😄 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)|
 
 
-
-
-
 <hr>
 
 
