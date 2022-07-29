@@ -7,7 +7,6 @@
   
 ## <h3 style="display:flex; align-items: center"> <i> About Me </i> <img width="11%" align="center" alt="Github" src="https://camo.githubusercontent.com/5b64c27d7cd257cd01bf334c70fcc71d8c3e40298aa86c902c17a1c124651354/68747470733a2f2f616368696e7479612d706f7274666f6c696f2e76657263656c2e6170702f706c616e652e676966" />
 </h3> 
-  
   <!----------------------------------- Profile View Section ------------------------------------>   
 
   <p align="left">
