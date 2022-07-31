@@ -1,5 +1,4 @@
 <!----------------------------------- Heading Section ------------------------------------>
-
 <div align="left">   
   <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px"> I'm Nitish Kumar</h1>  
   <!----------------------------------- About Section ------------------------------------>
