@@ -1,6 +1,6 @@
 <!----------------------------------- Heading Section ------------------------------------>
 <div align="left">   
-  <h1 align="center"> Hi <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" /> I'm Nitish Kumar</h1>  
+  <h1 align="center"> Hi <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" height="30px" width="30px" /> I'm Nitish Kumar</h1>  
   <!----------------------------------- About Section ------------------------------------>
 <h3 align="center"> <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code. </i> </h3>
   
