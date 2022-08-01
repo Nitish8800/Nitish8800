@@ -8,7 +8,6 @@
 </h3> 
  
  <!----------------------------------- Profile View Section ------------------------------------>   
-
   <p align="left">
     <a href="https://github.com/Nitish8800">
         <img src="https://komarev.com/ghpvc/?username=Nitish8800&label=Profile%20views&color=0e75b6&style=flat" alt="Nitish8800" />
