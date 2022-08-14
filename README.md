@@ -33,7 +33,7 @@
 
 - 📝 I write articles on [https://medium.com/@nitishfea120784](https://medium.com/@nitishfea120784)
 
-- 🌱 I’m proficient in **HTML , CSS , Javascript , React , Redux , Mongodb , Express , Nodejs , Data structure and Algorithm , Bootstrap , CLI-Bash.**
+- 🌱 I’m proficient in **HTML , CSS , Javascript , React , Redux , Mongodb , Express , Nodejs , Material UI , Data structure and Algorithm , Bootstrap , CLI-Bash.**
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/nitish-kumar-50a564205/)
 
