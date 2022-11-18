@@ -29,7 +29,7 @@
 
 - 📝 I write articles on [https://medium.com/@nitishfea120784](https://medium.com/@nitishfea120784)
 
-- 🌱 I’m proficient in **HTML , CSS , Javascript , React , Redux , Mongodb , Express , Nodejs , Material UI , Data structure and Algorithm , Bootstrap , CLI-Bash.**
+- 🌱 I’m proficient in **HTML , CSS , Javascript , Typescript , React , Redux , Mongodb , Express , Nodejs , Material UI , Data structure and Algorithm , Bootstrap , CLI-Bash.**
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/nitish-kumar-50a564205/)
 
@@ -43,6 +43,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+   <img src="https://img.shields.io/badge/Typescript-563D7C?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
