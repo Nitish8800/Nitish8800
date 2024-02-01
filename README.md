@@ -85,7 +85,6 @@
 <hr />
 <h3> <i> My Github Statistics </i></h3>
 
-[![Nitish's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nitish8800&theme=react-dark&bg_color=000&hide_border=true)](https://git.io/praveenscience)
 
 
 | ![Nitish's github stats](https://github-readme-stats.vercel.app/api?username=Nitish8800&show_icons=true&theme=tokyonight) | ![Nitish GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nitish8800&theme=tokyonight) |
