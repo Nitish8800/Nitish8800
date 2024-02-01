@@ -45,7 +45,7 @@
 
 - ⚡ My Portfolio - **[Nitish Kumar](https://portfolio-nitish8800.vercel.app/)**
 
-<h3 align="left" border="0"> <i> My Tech Stack </i> <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></h3>
+<h3 align="left" border="0"> <i> My Tech Stack </i> </h3>
 <br>
 
 <p>
@@ -83,7 +83,7 @@
   
 </p>
 <hr />
-<h3> <i> My Github Statistics </i> <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></h3>
+<h3> <i> My Github Statistics </i></h3>
 
 [![Nitish's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nitish8800&theme=react-dark&bg_color=000&hide_border=true)](https://git.io/praveenscience)
 
